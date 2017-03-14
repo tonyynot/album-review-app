@@ -1,0 +1,20 @@
+{
+  "name": "imgbot",
+  "version": "1.0.0",
+  "description": "Posts images from somewhere yet to be determined",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyynot/imgbot.git"
+  },
+  "author": "Anthony Ramella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyynot/imgbot/issues"
+  },
+  "homepage": "https://github.com/tonyynot/imgbot#readme"
+}
